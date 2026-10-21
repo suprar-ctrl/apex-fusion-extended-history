@@ -47,7 +47,15 @@ Available controls and measurements depend on what Fusion reports for the select
 
 ## Screenshots
 
-Screenshots will be added after the public release layout is finalized. Contributors can submit images with private aquarium/controller details removed.
+### Extended History Viewer
+![Apex History 90-day graph](images/history-viewer.png)
+
+### Parameter Comparison
+![Apex History comparison graph](images/comparison-graph.png)
+
+### Settings and Configuration
+![Apex History settings](images/settings.png)
+
 
 ## Important limitations
 
